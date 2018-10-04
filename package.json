@@ -32,9 +32,11 @@
     "brew": "0.0.8",
     "dotenv": "^6.0.0",
     "jsonwebtoken": "^8.3.0",
+    "jwt-decode": "^2.2.0",
     "lodash": "^4.17.11",
     "mongodb": "^3.1.6",
     "mongoose-unique-validator": "^2.0.2",
+    "nodemailer": "^4.6.8",
     "yarn": "^1.10.1"
   }
 }
